@@ -16,6 +16,7 @@ Kendimi özellikle Python ve C++ dilleri ile projeler geliştirerek ve siber gü
 ## 📊 GitHub İstatistiklerim
 
 ![furkanogt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanogt&show_icons=true&theme=radical&locale=tr&hide=prs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanogt&layout=compact&theme=radical&hide=c)
 
 
 <!--
