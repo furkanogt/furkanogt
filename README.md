@@ -1,16 +1,22 @@
-## Merhaba, Ben Furkan Öğüt👋
+👋 Merhaba, ben Furkan Oğt
+
 💻 Bilgisayar Mühendisi öğrencisiyim.  
-🧑‍💻 İlgi alanlarım: Python, C++, C#, Siber Güvenlik
+🧑‍💻 İlgi alanlarım: Python, C++, Siber Güvenlik  
+🔍 Siber güvenlik alanında kendimi geliştiriyorum.
 
-📁 Hakkımda
-Merhaba Ben Furkan
-Web Geliştiricisi
-Siber Güvenlik
-Python
+---
 
-📊 GitHub İstatistiklerim
+## 📁 Hakkımda
 
-![furkanogt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanogt&show_icons=true&theme=radical&locale=tr)
+Kendimi özellikle Python ve C++ dilleri ile projeler geliştirerek ve siber güvenlik alanında araştırmalar yaparak ilerletiyorum.
+3 ay boyunca web geliştiriciliği de yaptım.
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![furkanogt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanogt&show_icons=true&theme=radical&locale=tr&hide=prs,issues)
+
 
 <!--
 **furkanogt/furkanogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
