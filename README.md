@@ -9,7 +9,7 @@
 ## 📁 Hakkımda
 
 Kendimi özellikle Python ve C++ dilleri ile projeler geliştirerek ve siber güvenlik alanında araştırmalar yaparak ilerletiyorum.
-3 ay boyunca web geliştiriciliği de yaptım.
+3 ay boyunca web geliştiriciliği yaptım.
 
 ---
 
