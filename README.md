@@ -1,7 +1,7 @@
 👋 Merhaba, ben Furkan Oğt
 
 💻 Bilgisayar Mühendisi öğrencisiyim.  
-🧑‍💻 İlgi alanlarım: Python, C++, Siber Güvenlik  
+🧑‍💻 İlgi alanlarım: Python, C++, C#, Siber Güvenlik  
 🔍 Siber güvenlik alanında kendimi geliştiriyorum.
 
 ---
