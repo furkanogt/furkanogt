@@ -15,8 +15,8 @@ Kendimi özellikle Python ve C++ dilleri ile projeler geliştirerek ve siber gü
 
 ## 📊 GitHub İstatistiklerim
 
-![furkanogt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanogt&show_icons=true&theme=radical&locale=tr&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanogt&layout=compact&theme=radical&hide=c)
+![Furkan Oğt'un GitHub istatistikleri: toplam yıldızlar, katkılar ve commit sayıları gösteriliyor](https://github-readme-stats.vercel.app/api?username=furkanogt&show_icons=true&theme=radical&locale=tr&hide=prs,issues)
+![Furkan Oğt'un en çok kullandığı programlama dilleri: Python, C++, C# ve diğerleri](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanogt&layout=compact&theme=radical&hide=c)
 
 
 <!--
