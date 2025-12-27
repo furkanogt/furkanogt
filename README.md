@@ -1,4 +1,5 @@
 👋 Merhaba, ben Furkan Oğt
+🙋‍♂️ Naber? Profilime hoş geldin.
 
 💻 Bilgisayar Mühendisi öğrencisiyim.  
 🧑‍💻 İlgi alanlarım: Python, C++, C#, Siber Güvenlik  
